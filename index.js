@@ -9,3 +9,7 @@ function iterate(callback) {
   return dogs 
 
 }
+
+function doToArray(array, callback) {
+  array.forEach(callback)
+}

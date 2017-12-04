@@ -6,7 +6,7 @@ function iterativeLog (index, element) {
 function iterate(callback) {
   let dogs ['nico']
   nico.forEach(callback)
-  return dogs 
+  return dogs
 
 }
 

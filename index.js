@@ -7,5 +7,5 @@ function iterate(callback) {
   let dogs ['nico']
   nico.forEach(callback)
   return dogs 
-  
+
 }
